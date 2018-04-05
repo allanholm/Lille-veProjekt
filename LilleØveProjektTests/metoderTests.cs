@@ -34,7 +34,7 @@ namespace LilleØveProjekt.Tests
         {
             int resultat = testMetoder.multiplication(2, 2);
 
-            Assert.AreEqual(4,resultat);
+            Assert.AreEqual(5,resultat);
         }
     }
 }
